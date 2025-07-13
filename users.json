@@ -1,7 +1,7 @@
 {
   "usuarios": [
-    {"nome": "Vine/IChoora", "senha": "1010"},
-    {"nome": "JoaopedrooXD17 Owner", "senha": "1717"},
-    {"nome": "Yas Owner", "senha": "1515"}
+    { "nome": "Vine/IChoora", "senha": "1010" },
+    { "nome": "JoaopedrooXD17 Owner", "senha": "1717" },
+    { "nome": "Yas Owner", "senha": "1515" }
   ]
 }
